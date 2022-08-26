@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>App</title>
+    <script src="script.js"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="content-nav">
+        <!-- Nav tabs -->
+        <ul class="nav nav-tabs" id="navId">
+            <li class="nav-item">
+                <a href="#tab1Id" class="nav-link active">Active</a>
+            </li>
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Dropdown</a>
+                <div class="dropdown-menu">
+                    <a class="dropdown-item" href="#tab2Id">Action</a>
+                    <a class="dropdown-item" href="#tab3Id">Another action</a>
+                    <div class="dropdown-divider"></div>
+                    <a class="dropdown-item" href="#tab4Id">Action</a>
+                </div>
+            </li>
+            <li class="nav-item">
+                <a href="#tab5Id" class="nav-link">Another link</a>
+            </li>
+            <li class="nav-item">
+                <a href="#" class="nav-link disabled">Disabled</a>
+            </li>
+            <li class="nav-item">
+                <a name="" id="btn_enter_name" class="btn btn-primary" href="#" role="button" onclick="setName()">Introducir nombre</a>
+            </li>
+            <li class="nav-item">
+                <a name="" id="btn_enter_lastName" class="btn btn-primary" href="#" role="button" onclick="setLastName()">Introducir apellido</a>
+            </li>
+        </ul>
+        
+        <!-- Tab panes -->
+        <div class="tab-content">
+            <div class="tab-pane fade show active" id="tab1Id" role="tabpanel"></div>
+            <div class="tab-pane fade" id="tab2Id" role="tabpanel"></div>
+            <div class="tab-pane fade" id="tab3Id" role="tabpanel"></div>
+            <div class="tab-pane fade" id="tab4Id" role="tabpanel"></div>
+            <div class="tab-pane fade" id="tab5Id" role="tabpanel"></div>
+        </div>
+        
+        <script>
+            $('#navId a').click(e => {
+                e.preventDefault();
+                $(this).tab('show');
+            });
+        </script>
+    </div>
+    <h1>Debombi Van Debumbo</h1>
+    <div class="content">
+        <div class="paragraph_with_img">
+            <div class="paragraph">
+                <h2>Cura contra el Alzheimer</h2>
+                <p>
+                    El estudiante <span id="name" class="dinamic_text dinamic_name"></span> 
+                    <span id="lastName" class="dinamic_text dinamic_lastName"></span> 
+                    de Biomedicina en la Universidad Debombi Van Debumbo desarrolló lo 
+                    que parece ser un procedimiento para evitar el Alzheimer incluso en etapas avanzadas.
+                </p>
+            </div>
+            <img src="http://placeimg.com/640/480/cats" alt="">
+        </div>
+    </div>
+    <div class="content">
+        <div class="paragraph_with_img">
+            <img src="http://placeimg.com/640/480/animals" alt="">
+            <div class="paragraph">
+                <h2>Calentamiento Global</h2>
+                <p>
+                    El famoso influencer <span id="name" class="dinamic_text dinamic_name"></span> 
+                    <span id="lastName" class="dinamic_text dinamic_lastName"></span> 
+                    asegura en sus redes sociales que el calentamiento global es un invento de los gatos. 
+                    Sus declaraciones han causado burlas por todo internet.
+                </p>
+            </div>   
+        </div>
+    </div>
+    <div class="content">
+        <div class="paragraph_with_img">
+            <img src="http://placeimg.com/640/480/nature" alt="">
+            <div class="paragraph">
+                <h2>Los gatos desarrollan lenguaje complejo</h2>
+                <p>
+                    El habitante de la calle <span id="name" class="dinamic_text dinamic_name"></span> 
+                    <span id="lastName" class="dinamic_text dinamic_lastName"></span> 
+                    fue encontrado en la madrugada del día de ayer con multiples rasguños y heridas graves.
+                    Según dicen los testigos <span id="name" class="dinamic_text dinamic_name"></span> dijo 
+                    ¨Estaba caminando por un callejón y de repente aparecieron 4 gatos hablando perfecto español, 
+                    en cuanto me vieron atacaron.¨. Las autoridades comprobaron el lugar y efectivamente encontraron 
+                    la guarida de los fuckin gatos. Ahora la humanidad se enfrenta a otra especie inteligente. Deberán
+                    cooperar o luchar. xD
+                </p>
+            </div>   
+        </div>
+    </div>
+    <div class="content">
+        <button style="width: 100%; background: red; color: white; font-size: 40px;" id="btn_not" onclick="makeVisible()">NO PRESIONAR</button>
+    </div>
+    <div class="content" id="dont_open" style="visibility: hidden;">
+        <div class="paragraph_with_img">   
+            <img src="https://cdn.eldeforma.com/wp-content/uploads/2021/02/te-vendo-dinero.jpg" alt="">
+        </div>
+    </div>
+</body>
+</html>

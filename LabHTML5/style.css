@@ -1,0 +1,40 @@
+html{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+    color:#47c2ff;
+    font-size: 50px;
+    font-weight: 500;
+    background-color: grey;
+    text-align: center;
+    padding: 1em;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.content{
+    width: 70%;
+    margin: 0 auto;
+    background-color: aquamarine;
+    margin-bottom: 1em;
+}
+.paragraph_with_img{
+    display: inline-flex;
+
+}
+.paragraph{
+    padding: 2em;
+    font-size: 24px;
+}
+
+.paragraph p{
+    text-align: justify;
+}
+
+#btn_enter_lastName {
+    background-color:teal;
+    border-color: white;
+}
+.dinamic_text{
+    font-style: italic;
+    font-weight: 800;
+}
