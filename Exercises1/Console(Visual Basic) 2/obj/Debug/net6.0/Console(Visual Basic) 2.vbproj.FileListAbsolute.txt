@@ -1,0 +1,15 @@
+C:\Users\camil\source\repos\Console(Visual Basic) 2\bin\Debug\net6.0\Console(Visual Basic) 2.exe
+C:\Users\camil\source\repos\Console(Visual Basic) 2\bin\Debug\net6.0\Console(Visual Basic) 2.deps.json
+C:\Users\camil\source\repos\Console(Visual Basic) 2\bin\Debug\net6.0\Console(Visual Basic) 2.runtimeconfig.json
+C:\Users\camil\source\repos\Console(Visual Basic) 2\bin\Debug\net6.0\Console(Visual Basic) 2.dll
+C:\Users\camil\source\repos\Console(Visual Basic) 2\bin\Debug\net6.0\Console(Visual Basic) 2.pdb
+C:\Users\camil\source\repos\Console(Visual Basic) 2\obj\Debug\net6.0\Console(Visual Basic) 2.vbproj.AssemblyReference.cache
+C:\Users\camil\source\repos\Console(Visual Basic) 2\obj\Debug\net6.0\Console(Visual Basic) 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camil\source\repos\Console(Visual Basic) 2\obj\Debug\net6.0\Console(Visual Basic) 2.AssemblyInfoInputs.cache
+C:\Users\camil\source\repos\Console(Visual Basic) 2\obj\Debug\net6.0\Console(Visual Basic) 2.AssemblyInfo.vb
+C:\Users\camil\source\repos\Console(Visual Basic) 2\obj\Debug\net6.0\Console(Visual Basic) 2.vbproj.CoreCompileInputs.cache
+C:\Users\camil\source\repos\Console(Visual Basic) 2\obj\Debug\net6.0\Console(Visual Basic) 2.dll
+C:\Users\camil\source\repos\Console(Visual Basic) 2\obj\Debug\net6.0\refint\Console(Visual Basic) 2.dll
+C:\Users\camil\source\repos\Console(Visual Basic) 2\obj\Debug\net6.0\Console(Visual Basic) 2.pdb
+C:\Users\camil\source\repos\Console(Visual Basic) 2\obj\Debug\net6.0\Console(Visual Basic) 2.genruntimeconfig.cache
+C:\Users\camil\source\repos\Console(Visual Basic) 2\obj\Debug\net6.0\ref\Console(Visual Basic) 2.dll

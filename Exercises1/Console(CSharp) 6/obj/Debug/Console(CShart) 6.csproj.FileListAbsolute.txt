@@ -1,0 +1,16 @@
+C:\Users\camil\source\repos\Console(CShart) 6\bin\Debug\Console(CShart) 6.exe.config
+C:\Users\camil\source\repos\Console(CShart) 6\bin\Debug\Console(CShart) 6.exe
+C:\Users\camil\source\repos\Console(CShart) 6\bin\Debug\Console(CShart) 6.pdb
+C:\Users\camil\source\repos\Console(CShart) 6\obj\Debug\Console(CShart) 6.csproj.AssemblyReference.cache
+C:\Users\camil\source\repos\Console(CShart) 6\obj\Debug\Console(CShart) 6.csproj.SuggestedBindingRedirects.cache
+C:\Users\camil\source\repos\Console(CShart) 6\obj\Debug\Console(CShart) 6.csproj.CoreCompileInputs.cache
+C:\Users\camil\source\repos\Console(CShart) 6\obj\Debug\Console(CShart) 6.exe
+C:\Users\camil\source\repos\Console(CShart) 6\obj\Debug\Console(CShart) 6.pdb
+C:\Users\camil\source\repos\Console(CSharp) 6\bin\Debug\Console(CShart) 6.exe.config
+C:\Users\camil\source\repos\Console(CSharp) 6\bin\Debug\Console(CShart) 6.exe
+C:\Users\camil\source\repos\Console(CSharp) 6\bin\Debug\Console(CShart) 6.pdb
+C:\Users\camil\source\repos\Console(CSharp) 6\obj\Debug\Console(CShart) 6.csproj.AssemblyReference.cache
+C:\Users\camil\source\repos\Console(CSharp) 6\obj\Debug\Console(CShart) 6.csproj.SuggestedBindingRedirects.cache
+C:\Users\camil\source\repos\Console(CSharp) 6\obj\Debug\Console(CShart) 6.csproj.CoreCompileInputs.cache
+C:\Users\camil\source\repos\Console(CSharp) 6\obj\Debug\Console(CShart) 6.exe
+C:\Users\camil\source\repos\Console(CSharp) 6\obj\Debug\Console(CShart) 6.pdb

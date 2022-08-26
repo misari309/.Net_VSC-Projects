@@ -1,0 +1,11 @@
+C:\Users\camil\source\repos\WindowsForm(CShart) 8\bin\Debug\WindowsForm(CShart) 8.exe.config
+C:\Users\camil\source\repos\WindowsForm(CShart) 8\bin\Debug\WindowsForm(CShart) 8.exe
+C:\Users\camil\source\repos\WindowsForm(CShart) 8\bin\Debug\WindowsForm(CShart) 8.pdb
+C:\Users\camil\source\repos\WindowsForm(CShart) 8\obj\Debug\WindowsForm(CShart) 8.csproj.AssemblyReference.cache
+C:\Users\camil\source\repos\WindowsForm(CShart) 8\obj\Debug\WindowsForm(CShart) 8.csproj.SuggestedBindingRedirects.cache
+C:\Users\camil\source\repos\WindowsForm(CShart) 8\obj\Debug\WindowsForm_CShart__8.Properties.Resources.resources
+C:\Users\camil\source\repos\WindowsForm(CShart) 8\obj\Debug\WindowsForm(CShart) 8.csproj.GenerateResource.cache
+C:\Users\camil\source\repos\WindowsForm(CShart) 8\obj\Debug\WindowsForm(CShart) 8.csproj.CoreCompileInputs.cache
+C:\Users\camil\source\repos\WindowsForm(CShart) 8\obj\Debug\WindowsForm(CShart) 8.exe
+C:\Users\camil\source\repos\WindowsForm(CShart) 8\obj\Debug\WindowsForm(CShart) 8.pdb
+C:\Users\camil\source\repos\WindowsForm(CShart) 8\obj\Debug\WindowsForm_CSharp__8.Form1.resources
