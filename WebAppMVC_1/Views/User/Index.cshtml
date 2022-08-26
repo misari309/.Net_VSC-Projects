@@ -1,0 +1,31 @@
+﻿@model WebApp_1.Models.User
+@{
+    ViewData["Title"] = "Index";
+    string Nombre = "Perro";
+}
+
+<h1>Index</h1>
+<p>@Nombre</p>
+@for (int i=0;i<100;i++)
+{
+    <b>@i</b>
+}
+
+<div>
+    @Model.Name <br/>
+    @Model.Email 
+</div>
+
+<div>
+    <form method="post">
+        <div>
+            <input type="text" class="form_control" name="id" placeholder="Enter the admin Id " />
+            <input type="text" class="form_control" name="name" placeholder="Enter the admin name "/>
+            <input type="text" class="form_control" name="email" placeholder="Enter the admin email "/>
+            <button type="submit" class="btn">Save</button>
+        </div>
+    </form>
+    <h1>@ViewBag.Id</h1>
+    <h2>@ViewBag.Name</h2>
+    <h3>@ViewBag.Email</h3>
+</div>
