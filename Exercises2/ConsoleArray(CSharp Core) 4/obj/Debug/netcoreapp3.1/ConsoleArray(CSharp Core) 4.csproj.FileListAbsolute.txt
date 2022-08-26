@@ -1,0 +1,14 @@
+C:\Users\camil\source\repos\ConsoleArray(CSharp Core) 4\bin\Debug\netcoreapp3.1\ConsoleArray(CSharp Core) 4.exe
+C:\Users\camil\source\repos\ConsoleArray(CSharp Core) 4\bin\Debug\netcoreapp3.1\ConsoleArray(CSharp Core) 4.deps.json
+C:\Users\camil\source\repos\ConsoleArray(CSharp Core) 4\bin\Debug\netcoreapp3.1\ConsoleArray(CSharp Core) 4.runtimeconfig.json
+C:\Users\camil\source\repos\ConsoleArray(CSharp Core) 4\bin\Debug\netcoreapp3.1\ConsoleArray(CSharp Core) 4.runtimeconfig.dev.json
+C:\Users\camil\source\repos\ConsoleArray(CSharp Core) 4\bin\Debug\netcoreapp3.1\ConsoleArray(CSharp Core) 4.dll
+C:\Users\camil\source\repos\ConsoleArray(CSharp Core) 4\bin\Debug\netcoreapp3.1\ConsoleArray(CSharp Core) 4.pdb
+C:\Users\camil\source\repos\ConsoleArray(CSharp Core) 4\obj\Debug\netcoreapp3.1\ConsoleArray(CSharp Core) 4.csproj.AssemblyReference.cache
+C:\Users\camil\source\repos\ConsoleArray(CSharp Core) 4\obj\Debug\netcoreapp3.1\ConsoleArray(CSharp Core) 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camil\source\repos\ConsoleArray(CSharp Core) 4\obj\Debug\netcoreapp3.1\ConsoleArray(CSharp Core) 4.AssemblyInfoInputs.cache
+C:\Users\camil\source\repos\ConsoleArray(CSharp Core) 4\obj\Debug\netcoreapp3.1\ConsoleArray(CSharp Core) 4.AssemblyInfo.cs
+C:\Users\camil\source\repos\ConsoleArray(CSharp Core) 4\obj\Debug\netcoreapp3.1\ConsoleArray(CSharp Core) 4.csproj.CoreCompileInputs.cache
+C:\Users\camil\source\repos\ConsoleArray(CSharp Core) 4\obj\Debug\netcoreapp3.1\ConsoleArray(CSharp Core) 4.dll
+C:\Users\camil\source\repos\ConsoleArray(CSharp Core) 4\obj\Debug\netcoreapp3.1\ConsoleArray(CSharp Core) 4.pdb
+C:\Users\camil\source\repos\ConsoleArray(CSharp Core) 4\obj\Debug\netcoreapp3.1\ConsoleArray(CSharp Core) 4.genruntimeconfig.cache

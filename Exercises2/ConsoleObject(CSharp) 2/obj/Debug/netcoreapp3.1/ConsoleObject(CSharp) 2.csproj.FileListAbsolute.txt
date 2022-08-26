@@ -1,0 +1,14 @@
+C:\Users\camil\source\repos\ConsoleObject(CSharp) 2\bin\Debug\netcoreapp3.1\ConsoleObject(CSharp) 2.exe
+C:\Users\camil\source\repos\ConsoleObject(CSharp) 2\bin\Debug\netcoreapp3.1\ConsoleObject(CSharp) 2.deps.json
+C:\Users\camil\source\repos\ConsoleObject(CSharp) 2\bin\Debug\netcoreapp3.1\ConsoleObject(CSharp) 2.runtimeconfig.json
+C:\Users\camil\source\repos\ConsoleObject(CSharp) 2\bin\Debug\netcoreapp3.1\ConsoleObject(CSharp) 2.runtimeconfig.dev.json
+C:\Users\camil\source\repos\ConsoleObject(CSharp) 2\bin\Debug\netcoreapp3.1\ConsoleObject(CSharp) 2.dll
+C:\Users\camil\source\repos\ConsoleObject(CSharp) 2\bin\Debug\netcoreapp3.1\ConsoleObject(CSharp) 2.pdb
+C:\Users\camil\source\repos\ConsoleObject(CSharp) 2\obj\Debug\netcoreapp3.1\ConsoleObject(CSharp) 2.csproj.AssemblyReference.cache
+C:\Users\camil\source\repos\ConsoleObject(CSharp) 2\obj\Debug\netcoreapp3.1\ConsoleObject(CSharp) 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camil\source\repos\ConsoleObject(CSharp) 2\obj\Debug\netcoreapp3.1\ConsoleObject(CSharp) 2.AssemblyInfoInputs.cache
+C:\Users\camil\source\repos\ConsoleObject(CSharp) 2\obj\Debug\netcoreapp3.1\ConsoleObject(CSharp) 2.AssemblyInfo.cs
+C:\Users\camil\source\repos\ConsoleObject(CSharp) 2\obj\Debug\netcoreapp3.1\ConsoleObject(CSharp) 2.csproj.CoreCompileInputs.cache
+C:\Users\camil\source\repos\ConsoleObject(CSharp) 2\obj\Debug\netcoreapp3.1\ConsoleObject(CSharp) 2.dll
+C:\Users\camil\source\repos\ConsoleObject(CSharp) 2\obj\Debug\netcoreapp3.1\ConsoleObject(CSharp) 2.pdb
+C:\Users\camil\source\repos\ConsoleObject(CSharp) 2\obj\Debug\netcoreapp3.1\ConsoleObject(CSharp) 2.genruntimeconfig.cache
